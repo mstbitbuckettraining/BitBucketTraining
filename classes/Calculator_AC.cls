@@ -6,6 +6,10 @@ public class Calculator_AC {
         if(func == 'add') {
             result = val1 + val2;
         }
+		
+		if(func == 'div') {
+            result = val1 / val2;
+        }
         
         System.debug('Result: ' + result);
         
