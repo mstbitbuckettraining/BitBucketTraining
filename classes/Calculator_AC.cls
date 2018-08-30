@@ -4,7 +4,7 @@ public class Calculator_AC {
     public void find(String func, Double val1, Double val2) {
         
         if(func == 'Sub') {
-            result = val1 - val2;
+            result = val1 + val2;
         }
 		if(func == 'Add') {
             result = val1 + val2;
