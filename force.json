@@ -1,0 +1,22 @@
+{
+    "checkForFileChanges": true,
+    "autoRefresh": false,
+    "showTestCoverage": true,
+    "showTestLog": true,
+    "showFilesOnOpen": true,
+    "showFilesOnOpenMax": 3,
+    "browser": "Google Chrome Canary",
+    "pollTimeout": 1200,
+    "debugOnly": true,
+    "debugFilter": "USER_DEBUG|FATAL_ERROR",
+    "apiVersion": "43.0",
+    "deployOptions": {
+        "checkOnly": false,
+        "runAllTests": false,
+        "ignoreWarnings": true
+    },
+    "overwritePackageXML": false,
+    "username": "sankarm@resourceful-goat-423305.com",
+    "url": "https://login.salesforce.com",
+    "autoCompile": true
+}
